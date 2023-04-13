@@ -1,0 +1,56 @@
+STUDY ACCESSION,LINK,STUDY,REPORTED GENE(S),MAPPED_GENE
+GCST012465,www.ncbi.nlm.nih.gov/pubmed/34002096,"Genome-wide association study of more than 40,000 bipolar disorder cases provides new insights into the underlying biology.",HOMER2,HOMER2
+GCST011908,www.ncbi.nlm.nih.gov/pubmed/34016946,Genome-wide association study of early-onset bipolar I disorder in the Han Taiwanese population.,MIR522,RNU6-751P - MIR522
+GCST90020094,www.ncbi.nlm.nih.gov/pubmed/34159505,"Novel loci and potential mechanisms of major depressive disorder, bipolar disorder, and schizophrenia.",,
+GCST000387,www.ncbi.nlm.nih.gov/pubmed/19416921,Genome-wide association and meta-analysis of bipolar disorder in individuals of European ancestry.,NF1A,LINC01748
+GCST001358,www.ncbi.nlm.nih.gov/pubmed/22182935,Genome-wide association study meta-analysis of European and Asian-ancestry samples identifies three novel loci associated with bipolar disorder.,PTGFR,
+GCST000641,www.ncbi.nlm.nih.gov/pubmed/20351715,Meta-analysis of genome-wide association data of bipolar disorder and major depressive disorder.,FAT4,FAT4
+GCST001567,www.ncbi.nlm.nih.gov/pubmed/22688191,Genome-wide association study in a Swedish population yields support for greater CNV and MHC involvement in schizophrenia compared with bipolar disorder.,"other genes, MHC",TSBP1-AS1
+GCST001359,www.ncbi.nlm.nih.gov/pubmed/22205951,Genome-wide association study in bipolar patients stratified by co-morbidity.,RP11-252P19.1,PDE10A
+GCST000774,www.ncbi.nlm.nih.gov/pubmed/20713499,"Cross-disorder genomewide analysis of schizophrenia, bipolar disorder, and depression.",ADM,AMPD3
+GCST000220,www.ncbi.nlm.nih.gov/pubmed/18711365,Collaborative genome-wide association analysis supports a role for ANK3 and CACNA1C in bipolar disorder.,NR,TENM4
+GCST001135,www.ncbi.nlm.nih.gov/pubmed/21738484,Genome-wide association of bipolar disorder suggests an enrichment of replicable associations in regions near genes.,NFIA,LINC01748
+GCST000033,www.ncbi.nlm.nih.gov/pubmed/17486107,A genome-wide association study implicates diacylglycerol kinase eta (DGKH) and several other genes in the etiology of bipolar disorder.,DGKH,DGKH
+GCST000044,www.ncbi.nlm.nih.gov/pubmed/17554300,"Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls.",NR,BICRAL
+GCST000985,www.ncbi.nlm.nih.gov/pubmed/21353194,Genome-wide association study identifies genetic variation in neurocan as a susceptibility factor for bipolar disorder.,NCAN,NCAN
+GCST000417,www.ncbi.nlm.nih.gov/pubmed/19488044,Genome-wide association study of bipolar disorder in European American and African American individuals.,DPY19L3,DPY19L3
+GCST000961,www.ncbi.nlm.nih.gov/pubmed/21254220,Propensity score-based nonparametric test revealing genetic variants underlying bipolar disorder.,NR,HLA-B - DHFRP2
+GCST000969,www.ncbi.nlm.nih.gov/pubmed/21305692,Genome-wide association analysis of age at onset and psychotic symptoms in bipolar disorder.,CGNL1,CGNL1
+GCST001877,www.ncbi.nlm.nih.gov/pubmed/23453885,Identification of risk loci with shared effects on five major psychiatric disorders: a genome-wide analysis.,NR,ZNF615
+GCST011767,www.ncbi.nlm.nih.gov/pubmed/33169155,Genome-Wide Association Studies of Schizophrenia and Bipolar Disorder in a Diverse Cohort of US Veterans.,SPATS2L,SPATS2L
+GCST012290,www.ncbi.nlm.nih.gov/pubmed/34099189,Sex-Dependent Shared and Nonshared Genetic Architecture Across Mood and Psychotic Disorders.,NR,RN7SKP120 - TUSC1
+GCST001241,www.ncbi.nlm.nih.gov/pubmed/21926972,Large-scale genome-wide association analysis of bipolar disorder identifies a new susceptibility locus near ODZ4.,"RND1, DDX23, CANCNB3",CACNB3
+GCST001164,www.ncbi.nlm.nih.gov/pubmed/21771265,Genome-wide association study on bipolar disorder in the Bulgarian population.,GRIK5,GRIK5
+GCST000654,www.ncbi.nlm.nih.gov/pubmed/20386566,Genome-wide association study of bipolar I disorder in the Han Chinese population.,"ST8SIA2, C15orf32",C15orf32
+GCST001811,www.ncbi.nlm.nih.gov/pubmed/23326512,Genome-wide association study of irritable vs. elated mania suggests genetic differences between clinical subtypes of bipolar disorder.,"SLITRK1, SLITRK6",LINC00375 - NA
+GCST001715,www.ncbi.nlm.nih.gov/pubmed/23092984,Genome-wide association of mood-incongruent psychotic bipolar disorder.,"SNAP91, PRSS35",PRSS35
+GCST002254,www.ncbi.nlm.nih.gov/pubmed/24166486,GWAS meta analysis identifies TSNARE1 as a novel Schizophrenia / Bipolar susceptibility locus.,SDCCAG8,SDCCAG8
+GCST002385,www.ncbi.nlm.nih.gov/pubmed/24618891,Genome-wide association study reveals two new risk loci for bipolar disorder.,ANK3,ANK3
+GCST002306,www.ncbi.nlm.nih.gov/pubmed/24322204,Genome-wide association study of bipolar disorder accounting for effect of body mass index identifies a new risk allele in TCF7L2.,NR,"CDH4, CDH4"
+GCST003135,www.ncbi.nlm.nih.gov/pubmed/26433762,A genome-wide association study of bipolar disorder with comorbid eating disorder replicates the SOX2-OT region.,CADM3,CADM3
+GCST003378,www.ncbi.nlm.nih.gov/pubmed/26806518,Genetic variants associated with response to lithium treatment in bipolar disorder: a genome-wide association study.,ENSG00000258081,
+GCST003724,www.ncbi.nlm.nih.gov/pubmed/27329760,"Genome-wide association study of 40,000 individuals identifies two novel loci associated with bipolar disorder.","POU3F2, MIR2113",MIR2113 - EIF4EBP2P3
+GCST003962,www.ncbi.nlm.nih.gov/pubmed/28072414,Evidence for genetic heterogeneity between clinical subtypes of bipolar disorder.,"FER1L5, LMAN2L, CNNM4",LMAN2L
+GCST001647,www.ncbi.nlm.nih.gov/pubmed/22925353,A genome-wide association study of seasonal pattern mania identifies NF1A as a possible susceptibility gene for bipolar disorder.,NF1A,NFIA; No mapped genes; No mapped genes
+GCST002809,www.ncbi.nlm.nih.gov/pubmed/25827505,Characteristics of Bipolar I patients grouped by externalizing disorders.,ST6GALNAC3,ST6GALNAC3 - TPI1P1
+GCST004002,www.ncbi.nlm.nih.gov/pubmed/27890468,Genetic Overlap Between Attention-Deficit/Hyperactivity Disorder and Bipolar Disorder: Evidence From Genome-wide Association Study Meta-analysis.,ADCY2,ADCY2
+GCST004139,www.ncbi.nlm.nih.gov/pubmed/28115744,A genome-wide association study identifies two novel susceptibility loci and trans population polygenicity associated with bipolar disorder.,ODZ4,
+GCST002295,www.ncbi.nlm.nih.gov/pubmed/24280982,Polygenic dissection of diagnosis and clinical dimensions of bipolar disorder and schizophrenia.,TRANK1,HSPD1P6 - LINC02033
+GCST002815,www.ncbi.nlm.nih.gov/pubmed/25781172,Infection and inflammation in schizophrenia and bipolar disorder: a genome wide study for interactions with genetic variation.,"ROR2, NFIL3, AUH, MIR3910",NFIL3 - ROR2
+GCST002419,www.ncbi.nlm.nih.gov/pubmed/24882193,Bipolar disorder with comorbid binge eating history: a genome-wide association study implicates APOB.,APOB,LINC02850 - APOB
+GCST007255,www.ncbi.nlm.nih.gov/pubmed/30626913,"Bivariate genome-wide association analyses of the broad depression phenotype combined with major depressive disorder, bipolar disorder or schizophrenia reveal eight novel genetic loci for depression.",RPRD2,RPRD2
+GCST005386,www.ncbi.nlm.nih.gov/pubmed/29391396,Bipolar disorder with binge eating behavior: a genome-wide association study implicates PRR5-ARHGAP8.,AC096669.1,LINC01789 - LINC01885
+GCST008905,www.ncbi.nlm.nih.gov/pubmed/31579629,Transcriptome association studies of neuropsychiatric traits in African Americans implicate PRMT7 in schizophrenia.,NR,RPS17P7 - CLASP1
+GCST008103,www.ncbi.nlm.nih.gov/pubmed/31043756,Genome-wide association study identifies 30 loci associated with bipolar disorder.,"LOC440300, LOC388152, LOC642423, GOLGA6L4, DNM1P41, GOLGA6L5, UBE2Q2P1, LOC100506874, ZSCAN2, SCAND2P, WDR73, NMB, SEC11A, ZNF592, ALPK3, SLC28A1",
+GCST003158,www.ncbi.nlm.nih.gov/pubmed/26503763,Genome-wide association study identifies SESTD1 as a novel risk gene for lithium-responsive bipolar disorder.,"OR4F16, OR4F29, LOC729467, LOC100133331, LOC100132287, FGGY","FGGY-DT, LINC01358"
+GCST011101,www.ncbi.nlm.nih.gov/pubmed/33263727,Novel Risk Loci Associated With Genetic Risk for Bipolar Disorder Among Han Chinese Individuals: A Genome-Wide Association Study and Meta-analysis.,TMEM108,NPHP3-AS1 - NA
+GCST010641,www.ncbi.nlm.nih.gov/pubmed/32606422,Multi-trait analysis for genome-wide association study of five psychiatric disorders.,NR,"TLCD4-RWDD3, TLCD4"
+GCST005081,www.ncbi.nlm.nih.gov/pubmed/29121268,Association of Polygenic Score for Schizophrenia and HLA Antigen and Inflammation Genes With Response to Lithium in Bipolar Affective Disorder: A Genome-Wide Association Study.,FAM178B,FAM178B
+GCST003742,www.ncbi.nlm.nih.gov/pubmed/27769005,A genome wide association study suggests the association of muskelin with early onset bipolar disorder: Implications for a GABAergic epileptogenic neurogenesis model.,MKLN1,MKLN1
+GCST010416,www.ncbi.nlm.nih.gov/pubmed/31926635,"The Genetics of the Mood Disorder Spectrum: Genome-wide Association Analyses of More Than 185,000 Cases and 439,000 Controls.",NR,LINC00533 - RPSAP2
+GCST009371,www.ncbi.nlm.nih.gov/pubmed/31754094,Evidence that genes involved in hedgehog signaling are associated with both bipolar disorder and high BMI.,ETV5,"DGKG, ETV5"
+GCST007102,www.ncbi.nlm.nih.gov/pubmed/30217971,Genome-wide association study of seasonal affective disorder.,FGGY,FGGY
+GCST012088,www.ncbi.nlm.nih.gov/pubmed/33479212,Integrative analysis of genome-wide association studies identifies novel loci associated with neuropsychiatric disorders.,NR,NA - RNU6-334P
+GCST006668,www.ncbi.nlm.nih.gov/pubmed/30289880,Heritability informed power optimization (HIPO) leads to enhanced detection of genetic associations across multiple traits.,NR,HSPD1P6 - LINC02033
+GCST009600,www.ncbi.nlm.nih.gov/pubmed/31835028,"Genomic Relationships, Novel Loci, and Pleiotropic Mechanisms across Eight Psychiatric Disorders.",STAG1,STAG1
+GCST90016621,www.ncbi.nlm.nih.gov/pubmed/33686288,Identifying loci with different allele frequencies among cases of eight psychiatric disorders using CC-GWAS.,,GULOP
